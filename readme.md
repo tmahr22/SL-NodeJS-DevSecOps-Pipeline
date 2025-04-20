@@ -6,7 +6,7 @@
 [![devDependency Status](https://david-dm.org/lissy93/quick-example-of-testing-in-nodejs/dev-status.svg)](https://david-dm.org/lissy93/quick-example-of-testing-in-nodejs#info=devDependencies)
 [![Inline docs](http://inch-ci.org/github/Lissy93/quick-example-of-testing-in-nodejs.svg?branch=master)](http://inch-ci.org/github/Lissy93/quick-example-of-testing-in-nodejs)
 
-
+  
 ## Intro
 This is a quick example project to show how a test environment can be setup in Node.js
 
